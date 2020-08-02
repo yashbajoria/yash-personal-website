@@ -11,7 +11,7 @@
 	"AboutImage": "https://i.imgur.com/26UxaqU.jpg",
 	"AboutContent": [
 		"I’m a Computer Science major by day, an avid reader by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"Enamoured by Sci-fi visuals, passionate about Space Technology and Human Psychology (though, never studied them formally), sport love towards cricket and a diligent team player are some characteristics that can well describe me.",
+		"Enamoured by Sci-fi visuals, passionate about Astrophysics and Human Psychology (though, never studied them formally), sport love towards cricket, an articulate writer and a diligent team player are some characteristics that can well describe me.",
 		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
@@ -21,34 +21,30 @@
 	"WorkImage": "https://i.imgur.com/QEzrto7.png",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "Amazon India",
+			"name": "Optum, a United Health Group company",
 			"link": "#"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
+			"name": "Dr. Urmi Ravindra Salve, IIT Guwahati",
 			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
+			"name": "Tourism Place Recommendation System",
+			"link": "https://github.com/yashbajoria/recommendation-system"
 		},
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
+			"name": "2D Robo Bird Game",
+			"link": "https://github.com/yashbajoria/2D-Robo-Bird-Game"
 		},
 		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+			"name": "NITS MUN 2019 Website",
+			"link": "https://github.com/yashbajoria/nitsmun2019"
 		},
 		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+			"name": "WebVR",
+			"link": "https://github.com/yashbajoria/WebVR"
 		}
 	],
 
@@ -56,12 +52,10 @@
 	"CV": "https://www.visualcv.com/aditya-ketkar/",
 	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:bajoriayash1@gmail.com",
+	"linkedin": "https://linkedin.com/in/yashbajoria/",
+	"facebook": "https://www.facebook.com/yash598/",
+	"github": "https://github.com/yashbajoria",
+	"instagram": "https://www.instagram.com/yash_bajoria_/?hl=en",
+	"twitter": "https://twitter.com/YashBajoria7"
 }
