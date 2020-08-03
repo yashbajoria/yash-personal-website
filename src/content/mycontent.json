@@ -19,11 +19,11 @@
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
 			"name": "Optum, a United Health Group company",
-			"link": "#"
+			"link": "https://github.com/yashbajoria/NGO-Monitoring"
 		},
 		{
 			"name": "Dr. Urmi Ravindra Salve, IIT Guwahati",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+			"link": "https://github.com/yashbajoria/Wrist-Risk-Prediction"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
