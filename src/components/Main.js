@@ -58,8 +58,8 @@ class Main extends React.Component {
             <img src={JSONData.WorkImage} alt="" />
           </span>
 
-            {JSONData.WorkContent}
-            <br/><br/>
+//             {JSONData.WorkContent}
+//             <br/><br/>
             {JSONData.InternshipsStartLine}
             <ul>
               {JSONData.InternShips.map((item) => {
@@ -95,8 +95,8 @@ class Main extends React.Component {
             {JSONData.CVStartLine}
             <br/><br/>
             <div style={{"display":"flex", "justifyContent":"space-around"}}>
-              <a href={JSONData.CV} >CV </a>
-              <a href={JSONData.Resume} >Resume</a>
+            <a href={JSONData.Resume} >Resume</a>
+//             <a href={JSONData.CV} >CV </a>  
             </div>
           {/* </p> */}
           {/* not visible in gatsby build */}
@@ -150,11 +150,11 @@ class Main extends React.Component {
                 <span className="label">Facebook</span>
               </a>
             </li>
-            <li>
-              <a href={JSONData.medium} className="icon fa-medium">
-                <span className="label">Medium</span>
-              </a>
-            </li>
+//             <li>
+//               <a href={JSONData.medium} className="icon fa-medium">
+//                 <span className="label">Medium</span>
+//               </a>
+//             </li>
             <li>
               <a
                 href={JSONData.github}
@@ -171,14 +171,14 @@ class Main extends React.Component {
                 <span className="label">Linkedin</span>
               </a>
             </li>
-            <li>
-              <a
-                href={JSONData.wordpress}
-                className="icon fa-wordpress"
-              >
-                <span className="label">Blog(deprecated)</span>
-              </a>
-            </li>
+//             <li>
+//               <a
+//                 href={JSONData.wordpress}
+//                 className="icon fa-wordpress"
+//               >
+//                 <span className="label">Blog(deprecated)</span>
+//               </a>
+//             </li>
           </ul>
           {/* not visible in gatsby build */}
           {close}
