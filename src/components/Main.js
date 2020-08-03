@@ -57,7 +57,7 @@ class Main extends React.Component {
           <span className="image main">
             <img src={JSONData.WorkImage} alt="" />
           </span>
-ffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+
             {JSONData.InternshipsStartLine}
             <ul>
               {JSONData.InternShips.map((item) => {
