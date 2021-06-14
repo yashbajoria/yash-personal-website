@@ -2,50 +2,68 @@
 	"Title": "Yash Bajoria | Personal Webpage",
 	"Name": "Yash Bajoria",
 	"Description": [
-		"Final-year B.Tech undergraduate from NIT Silchar. Passionate about Astrophysics, Coding Algorithms and Developing Software Solutions.",
-		"I grab every chance I get to travel, learn and create."
+		"Software Engineer @ UnitedHealth Group. CS Graduate from NIT Silchar. Passionate about STEM, Chess, and Coding Algorithms.",
+		"I grab every chance I get to travel, learn and build."
 	],
-	"MainImage": "https://i.imgur.com/acg9YuG.jpg",
+	"MainImage": "https://imgur.com/1HwgAlG",
 	"BackgroundURL": "https://i.imgur.com/eueGAGd.jpg",
 
 	"AboutImage": "https://i.imgur.com/26UxaqU.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, an avid reader by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"Enamoured by Sci-fi visuals, passionate about Astrophysics and Human Psychology (though, never studied them formally), sport love towards cricket, an articulate writer and a diligent team player are some characteristics that can well describe me.",
+		"I’m a Software Engineer by day, an avid reader by evening, a functional wantrepreneur by midnight and a hustler always.",
+		"I am passionate about Science, Technology, Engineering and Maths, and have Sport love towards Chess and Cricket",
+		"Enamoured by Sci-fi visuals, an articulate writer and a diligent team player are some characteristics that can well describe me.",
 		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
 	"WorkImage": "https://i.imgur.com/QEzrto7.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"InternshipsStartLine": "Previously, I have worked with :",
 	"InternShips": [{
-			"name": "Optum, a United Health Group company",
+			"name": "Optum, a UnitedHealth Group company  ↗",
+			"link": "https://drive.google.com/file/d/14P_RkpM4YH1StXN4oYunJxVLKp9Ju5xr/view?usp=sharing"
+		},
+		{
+			"name": "Dr. Urmi Ravindra Salve, IIT Guwahati  ↗",
+			"link": "https://drive.google.com/file/d/1X7fN_8wZZR3sJIWUJQ-U7I28NwmvD9LY/view?usp=sharing"
+		},
+		{
+			"name": "Chegg India Pvt. Ltd.  ↗",
+			"link": "https://drive.google.com/file/d/1t-npljRF94hRKMov5yQvt8pB6i-JzK16/view?usp=sharing"
+		}	
+	],
+	"ProjectsStartLine": "Some of my personal works can be found here :",
+	"Projects": [{
+			"name": "Risk Assessment Software for Hand Intensive Activities  ↗",
+			"link": "https://yashbajoria.github.io/Wrist-Risk-Prediction/"
+		},
+		{
+			"name": "NGO Monitoring Portal  ↗",
 			"link": "https://github.com/yashbajoria/NGO-Monitoring"
 		},
 		{
-			"name": "Dr. Urmi Ravindra Salve, IIT Guwahati",
-			"link": "https://github.com/yashbajoria/Wrist-Risk-Prediction"
-		}
-	],
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
-	"Projects": [{
-			"name": "Tourism Place Recommendation System",
+			"name": "Tourism Place Recommendation System  ↗",
 			"link": "https://github.com/yashbajoria/recommendation-system"
 		},
 		{
-			"name": "2D Robo Bird Game",
+			"name": "NITS MUN 2019 Website  ↗",
+			"link": "https://yashbajoria.github.io/nitsmun2019/"
+		},
+		{
+			"name": "2D Robo Bird Game  ↗",
 			"link": "https://github.com/yashbajoria/2D-Robo-Bird-Game"
 		},
 		{
-			"name": "NITS MUN 2019 Website",
-			"link": "https://github.com/yashbajoria/nitsmun2019"
+			"name": "Animation Frame  ↗",
+			"link": "https://github.com/yashbajoria/WebVR"
 		},
 		{
-			"name": "WebVR",
-			"link": "https://github.com/yashbajoria/WebVR"
+			"name": "Bitscribe Magazine  ↗",
+			"link": "https://github.com/yashbajoria/Bitscribe-Magazine"
 		}
 	],
 
-	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
+	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together 💪 ",
+	"CV": "https://drive.google.com/file/d/10o2HvoCClIpl85Xmwq_KJAAJQM1S4SAE/view?usp=sharing",
 	"Resume": "https://drive.google.com/file/d/1B02BeEBMBci1lmgwyGBoGmoF1MGQUVf5/view?usp=sharing",
 
 	"emailid": "mailto:bajoriayash1@gmail.com",
@@ -53,5 +71,6 @@
 	"facebook": "https://www.facebook.com/yash598/",
 	"github": "https://github.com/yashbajoria",
 	"instagram": "https://www.instagram.com/yash_bajoria_/?hl=en",
-	"twitter": "https://twitter.com/YashBajoria7"
+	"twitter": "https://twitter.com/YashBajoria7",
+	"medium": "https://medium.com/@yash_bajoria"
 }
