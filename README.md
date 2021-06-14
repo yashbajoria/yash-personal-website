@@ -173,9 +173,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aditya Ketkar - [@adityaketkar](https://linkedin.com/in/adityaketkar) - adityaketkar848@gmail.com
+Yash Bajoria - [@yashbajoria](https://linkedin.com/in/yashbajoria) - bajoriayash1@gmail.com
 
-Project Link: [https://github.com/adityaketkar/circle-packing-personal-homepage](https://github.com/adityaketkar/circle-packing-personal-homepage)
+Project Link: [https://github.com/yashbajoria/yash-personal-website](https://github.com/yashbajoria/yash-personal-website)
 
 
 
@@ -200,6 +200,6 @@ Project Link: [https://github.com/adityaketkar/circle-packing-personal-homepage]
 [license-shield]: https://img.shields.io/github/license/adityaketkar/circle-packing-personal-homepage
 [license-url]: https://github.com/adityaketkar/circle-packing-personal-homepage/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/adityaketkar
+[linkedin-url]: https://linkedin.com/in/yashbajoria
 [twitter-shield]: https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fadityaketkar%2Fcircle-packing-personal-homepage
-[twitter-url]:https://twitter.com/Ketkar_A
+[twitter-url]:https://twitter.com/YashBajoria7
