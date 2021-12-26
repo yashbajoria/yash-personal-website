@@ -2,13 +2,13 @@
 	"Title": "Yash Bajoria | Personal Webpage",
 	"Name": "Yash Bajoria",
 	"Description": [
-		"Software Engineer @ Optum(UnitedHealth Group). CS Graduate from NIT Silchar. Passionate about STEM, Chess, and Coding Algorithms.",
+		"Software Development Engineer at Amazon. Former Software Engineer at Optum(UnitedHealth Group). CS Graduate from NIT Silchar. Passionate about STEM, Chess, and Coding Algorithms.",
 		"I grab every chance I get to travel, learn and build."
 	],
 	"MainImage": "https://i.imgur.com/1HwgAlG.jpg",
 	"BackgroundURL": "https://i.imgur.com/eueGAGd.jpg",
 
-	"AboutImage": "https://i.imgur.com/26UxaqU.jpg",
+	"AboutImage": "https://imgur.com/vXUYtyc",
 	"AboutContent": [
 		"I’m a Software Engineer by day, an avid reader by evening, a functional wantrepreneur by midnight and a hustler always.",
 		"I am passionate about Science, Technology, Engineering and Maths, and have Sport love towards Chess and Cricket",
@@ -16,7 +16,7 @@
 		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
-	"WorkImage": "https://i.imgur.com/QEzrto7.png",
+	"WorkImage": "https://imgur.com/Iv0kbpM",
 	"InternshipsStartLine": "Previously, I have worked with :",
 	"InternShips": [{
 			"name": "Optum, a UnitedHealth Group company  ↗",
@@ -71,6 +71,5 @@
 	"facebook": "https://www.facebook.com/yash598/",
 	"github": "https://github.com/yashbajoria",
 	"instagram": "https://www.instagram.com/yash_bajoria_/?hl=en",
-	"twitter": "https://twitter.com/YashBajoria7",
-	"medium": "https://medium.com/@yash_bajoria"
+	"twitter": "https://twitter.com/YashBajoria7"
 }
